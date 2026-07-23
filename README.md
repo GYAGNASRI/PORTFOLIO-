@@ -10,7 +10,7 @@ An ambitious **B.Tech Computer Science & Engineering** undergraduate specializin
 * 💡 **Core Specializations:** Advanced DSA, Object-Oriented System Design, Operating Systems, DBMS, & Computer Networks
 * ⚡ **Problem-Solving:** Active Competitive Programmer with strong proficiency in writing $O(1)$ / $O(N \log N)$ optimized algorithms
 * 🎯 **Career Goal:** Software Development Engineer (SDE) @ Microsoft
-* 📫 **Connect with me:** [LinkedIn]([https://www.linkedin.com/in/g-yagnasri-reddy-892a1028a/]) | [Portfolio Website]([https://gyagnasrireddy-portfolio.netlify.app/]) | `yagnasri02.rishi@gmail.com`
+* 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/g-yagnasri-reddy-892a1028a/) | [Portfolio Website](https://gyagnasrireddy-portfolio.netlify.app/) | `yagnasri02.rishi@gmail.com`
 
 ---
 
