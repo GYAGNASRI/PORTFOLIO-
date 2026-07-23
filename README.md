@@ -24,9 +24,12 @@ An ambitious **B.Tech Computer Science & Engineering** undergraduate specializin
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Computer Science Fundamentals & Concepts:**
-* **DSA Topics:** Dynamic Programming, Graph Algorithms, Trees & Tries, Segment Trees, Backtracking, System Trade-off Analysis
+* **DSA Topics:** Dynamic Programming, Graph Algorithms, Trees & Tries, Strings, Backtracking
 * **OOPs Principles:** SOLID Design Principles, Design Patterns (Factory, Singleton, Observer), Abstraction, Encapsulation, Polymorphism
 * **Systems:** Thread Synchronization, Memory Management, Database Indexing, TCP/IP Suite, Low-Level System Design (LLD)
+**Computer Networks & Systems Architecture:**
+* **Protocols & Stack:** TCP/IP Suite, HTTP/HTTPS, DNS, UDP, WebSocket, TLS/SSL, ARP, ICMP
+* **Networking Concepts:** Socket Programming, Subnetting, Routing Algorithms, Packet Analysis
 
 **Tools & Ecosystem:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
