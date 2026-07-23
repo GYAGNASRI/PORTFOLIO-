@@ -8,7 +8,7 @@ An ambitious **B.Tech Computer Science & Engineering** undergraduate specializin
 ### 📌 Core Profile & Aspirations
 
 * 🎓 **Degree:** B.Tech in Computer Science and Engineering
-* 💡 **Core Specializations:** Advanced DSA, Object-Oriented System Design, Operating Systems, DBMS, & Computer Networks
+* 💡 **Core Specializations:** Good Understanding of DSA, Object-Oriented System Design, Operating Systems, DBMS, & Computer Networks
 * 🎯 **Career Goal:** Software Development Engineer (SDE) @ Microsoft
 * 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/g-yagnasri-reddy-892a1028a/) | [Portfolio Website](https://gyagnasrireddy-portfolio.netlify.app/) | `yagnasri02.rishi@gmail.com`
 
