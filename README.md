@@ -1,4 +1,5 @@
-# PORTFOLIO# Hi there, I'm Guttikonda Yagnasri 👋
+
+# Hi there, I'm Guttikonda Yagnasri 👋
 
 An ambitious **B.Tech Computer Science & Engineering** undergraduate specializing in **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOPs)**, and **Software System Architecture**. Driven by clean code, algorithm optimization, and scalable design with a target of building high-impact platforms at **Microsoft**.
 
